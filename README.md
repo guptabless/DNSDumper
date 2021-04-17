@@ -5,6 +5,8 @@ This tool can be used to fetch the DNS record published by the website. You can 
 # Requirements
 - DNSDumpsterAPI
 - bcolors
+- sys, argparse
+- os
 
 You have to add the doomain name in the code in the domain variable.
 
