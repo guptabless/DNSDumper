@@ -8,4 +8,4 @@ This tool can be used to fetch the DNS record published by the website. You can 
 
 You have to add the doomain name in the code in the domain variable.
 
-domain = 'any domain'
+-d = provide any domain or a text file containing the domains if you want to scan in bulk
